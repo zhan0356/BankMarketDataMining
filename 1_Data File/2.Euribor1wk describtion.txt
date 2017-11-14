@@ -1,0 +1,2 @@
+Day by Day interest rate extracted from database of bank of Portugal
+https://www.bportugal.pt/EstatisticasWeb/
